@@ -8,3 +8,7 @@
 $ git init
 https://github.com/ldickmann/app_locadora_car/blob/main/locadora_car.py
 ```
+
+- [ ] Pão
+- [ ] Queijo
+- [ ] Café
